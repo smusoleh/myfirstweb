@@ -1,0 +1,33 @@
+th {
+  border: 2px solid #8c6b48;
+  color: #8c6b48;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+td {
+  border: 2px solid #8c6b48;
+  width: 300px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.table{
+  background-color: #242f44;
+}
+b {
+    padding: 0 .25rem;
+    margin: 0 .0625rem;
+    border-radius: .125rem;
+    color: #15141f;
+    background-color: #eae9ed;
+    white-space: normal;
+    vertical-align: initial;
+    font-family: Monaco,Menlo,Ubuntu Mono,Droid Sans Mono,Consolas,monospace;
+    font-size: .9em;
+}
+h3 {
+  text-align: center;
+  color: rgb(0, 204, 255);
+}
